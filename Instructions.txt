@@ -1,0 +1,9 @@
+The Maze can be run from command line.
+
+Simply navigate your console directory to the same path as the Maze folder then execute 
+the file by typing "javac Maze.java" enter then "java Maze filename".
+Note filename above is replaced by whichever maze you wish to run.
+E.g. "java Maze large_input"
+
+It will then test the specified maze and tell you in the console if it succeeded or failed,
+then it will print the maze with all given requirements included.

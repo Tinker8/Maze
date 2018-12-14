@@ -1,0 +1,9 @@
+check a path, mark every doorway, check each doorway, mark deadends as blocked doorways.
+or
+try every path until deadend
+
+
+
+my maze currently reads in a maze and shows X's to the end
+does it need to read in different mazes or can i give 4 options?
+what does it mean by passages?
